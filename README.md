@@ -1,4 +1,3 @@
-
 # Analisis dan Prediksi Penjualan Sablon HAGA
 
 ### Introduction
@@ -14,7 +13,7 @@ Terdapat 2 file dalam repository ini, yaitu:
 - main.ipynb
     - Merupakan kode untuk jupyter notebook menggunakan colab
 
-### Persyaratan
+### Requirements
 
 - Python 3.x
 - Pandas
